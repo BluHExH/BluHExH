@@ -1,6 +1,6 @@
 # <div align="center">🔥 HEX-404 🇧🇩</div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=0x42414E474C414445534849204845584552;0x53454355524954592052455345415243484552;0x50454E4554524154494F4E20544553544552">
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=I Am Hacker Hex">
 </div>
 
 <p align="center">
