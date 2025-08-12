@@ -1,31 +1,19 @@
-# <div align="center">🔥 HEX-404 🇧🇩</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=I Am Hacker Hex">
-</div>
-
+<!-- Animated HEX Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elite HEX&label=PROFILE+VIEWS&color=00FF00&style=flat-square">
-  <img src="https://img.shields.io/badge/MADE_IN-BANGLADESH-green?style=flat-square">
-  <img src="https://img.shields.io/badge/STATUS-CODING-red?style=flat-square">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hacker+Hex;Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
+<!-- Gradient HEX Name -->
+<h1 align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=H%20E%20X&width=800&height=200" alt="HEX Banner" />
+</h1>
 
 ---
 
-### <div align="center">🔐 HΞX IDENTITY</div>
-```hex
-[0x1] NAME      : Elite Hex (HexMaster)
-[0x2] LOCATION  : 404, BANGLADESH
-[0x3] ROLE      : ETHICAL HACKER | 404 DEVELOPER
-[0x4] MISSION   : "KNOWLEDGE IS POWER, USE IT ETHICALLY"
-
-
-
-
-> PYTHON      [██████████████████] 98%
-> BASH        [████████████████] 85%
-> C/C++       [██████████████] 75%
-> JAVASCRIPT  [██████████] 60%
-> SQL         [██████] 45%
-
-
-
+## 🖤 About Me
+```bash
+> Name: Hacker Hex
+> Age: Not Found 
+> Job: Programmer / Pentester
+> Location: Bangladesh
+> Hobbies: Coding, Cybersecurity, Hacking Tools
