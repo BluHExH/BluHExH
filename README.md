@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/BluhExH/BluhExH/main/matrix.gif" alt="Matrix Animation">
 </p>
 
+<p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+ 
 
 <!-- Animated HEX Banner -->
 <p align="center">
