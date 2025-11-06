@@ -38,9 +38,9 @@
 ## 🔥 Featured Projects
 | Name | Description | Tech |
 |------|--------------|------|
-| [**HEX-Control-Nexus**](https://github.com/BluHExH/HEX-Control-Nexus) | Powerful multi-automation & network toolkit | Python / Bash |
+
 | [**HEX-Brute-Force**](https://github.com/BluHExH/HEX-brute-force) | All-in-one brute-force attack tool with TOR support | Python |
-| [**HEX-DDoS Suite**](https://github.com/BluHExH/HEX-DDoS) | Advanced legal network stress-testing utility | Bash |
+| [**HEX-DDoS Suite**](https://github.com/BluHExH/HEX-DDoS) | Advanced legal network stress-testing utility | multi language  |
 
 ---
 
