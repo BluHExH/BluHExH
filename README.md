@@ -50,7 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BluHExH&theme=radical" height="180"/>
 </p>
 ![](https://github-readme-stats.vercel.app/api?username=BluHExH&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BluHExH&theme=dark&hide_border=false)<br/>
+
 ---
 
 ## 🌐 Connect With Me
