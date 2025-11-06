@@ -56,7 +56,7 @@
 <p align="center">
   <a href="https://github.com/BluHExH"><img src="https://img.shields.io/badge/GitHub-Hex-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:hackerhex@proton.me"><img src="https://img.shields.io/badge/Email-hackerhex@proton.me-orange?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://t.me/HackerHex"><img src="https://img.shields.io/badge/Telegram-@HackerHex-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/Hackerhex9"><img src="https://img.shields.io/badge/Telegram-@Hackerhex9-blue?style=for-the-badge&logo=telegram" /></a>
 </p>
 
 ---
