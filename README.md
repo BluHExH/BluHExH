@@ -1,8 +1,8 @@
 ![My image](https://raw.githubusercontent.com/BluHExH/Profile/refs/heads/main/hex.gif)
 
-
-<p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
- 
+<p align="center">
+  <img src="https://img.shields.io/badge/I Am A BANGLADESH- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+</p>
 
 <!-- Animated HEX Banner -->
 <p align="center">
@@ -19,11 +19,48 @@
 ## 🖤 About Me
 ```bash
 > Name: Hacker Hex
-> Age: Not Found 
 > Job: Programmer / Pentester
 > Location: Bangladesh
-> Hobbies: Coding, Cybersecurity, Hacking Tools
+> Skills: Python, JavaScript, Bash, PHP, SQL, Networking
+> Hobbies: Coding, Cybersecurity, Hacking Tools, Open Source
+> Motto: "Think like a hacker, code like a developer."
+```
 
+---
 
+## ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,js,html,css,php,mysql,linux,git,github,vscode,react,nodejs" />
+</p>
 
+---
 
+## 🔥 Featured Projects
+| Name | Description | Tech |
+|------|--------------|------|
+| [**HEX-Control-Nexus**](https://github.com/BluHExH/HEX-Control-Nexus) | Powerful multi-automation & network toolkit | Python / Bash |
+| [**HEX-Brute-Force**](https://github.com/BluHExH/HEX-brute-force) | All-in-one brute-force attack tool with TOR support | Python |
+| [**HEX-DDoS Suite**](https://github.com/BluHExH/HEX-DDoS) | Advanced legal network stress-testing utility | Bash |
+
+---
+
+## 💻 Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BluHExH&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BluHExH&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/BluHExH"><img src="https://img.shields.io/badge/GitHub-Hex-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:hackerhex@proton.me"><img src="https://img.shields.io/badge/Email-hackerhex@proton.me-orange?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://t.me/HackerHex"><img src="https://img.shields.io/badge/Telegram-@HackerHex-blue?style=for-the-badge&logo=telegram" /></a>
+</p>
+
+---
+
+<p align="center">
+  <b>“Stay curious. Break systems. Build better ones.”</b>
+</p>
