@@ -27,7 +27,7 @@
 > Hobbies: Coding, Cybersecurity, Hacking Tools, Open Source
 > Motto: "Think like a hacker, code like a developer."
 ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashblackhat&label=Profile%20views&color=0e75b6&style=flat" alt="akashblackhat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BluHExH&label=Profile%20views&color=0e75b6&style=flat" alt="BluHExH" /> </p>
 
 ---
 
