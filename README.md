@@ -40,14 +40,18 @@ graph LR
 ```
 
 </div>
+
 ## 🖤 About Me
-```bash
-> Name: Hacker Hex
-> Job: Programmer / Pentester
-> Location: Bangladesh
-> Skills: Python, JavaScript, Bash, PHP, SQL, Networking
-> Hobbies: Coding, Cybersecurity, Hacking Tools, Open Source
-> Motto: "Think like a hacker, code like a developer."
+
+```typescript
+const developer = {
+    name: "Hacker Hex",
+    role: "Open Source Developer & Contributor",
+    location: "Bangladesh 🌍",
+    interests: ["Open Source", "Building Tools", "Community"],
+    currentFocus: "Creating impactful open source projects",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
 ```
 <div align="center">
   
@@ -150,7 +154,7 @@ graph LR
   <a href="https://t.me/Hackerhex9"><img src="https://img.shields.io/badge/Telegram-@Hackerhex9-blue?style=for-the-badge&logo=telegram" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
----
+
 
 <p align="center">
   <b>“Stay curious. Break systems. Build better ones.”</b>
