@@ -144,6 +144,9 @@ const developer = {
 
 ## 💻 Stats & Activity
 [![GitHub Streak](https://streak-stats.demolab.com?user=BluHExH&theme=aura&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BluHExH&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
 
 ## 🌐 Connect With Me
 <p align="center">
