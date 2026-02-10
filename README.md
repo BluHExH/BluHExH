@@ -143,16 +143,7 @@ const developer = {
 
 
 ## 💻 Stats & Activity
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BluHExH&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BluHExH&theme=radical" height="180"/>
-</p>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=BluHExH&theme=react-dark&hide_border=true&bg_color=0D1117&color=A177FF&line=A177FF&point=FF6B6B" alt="Contribution Graph" />
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=BluHExH&theme=aura&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 ## 🌐 Connect With Me
 <p align="center">
