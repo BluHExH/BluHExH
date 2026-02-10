@@ -79,7 +79,7 @@ const developer = {
 ### 🏅 Achievements
 - ✨ Maintainer of popular open source projects
 - 🎖️ GitHub Arctic Code Vault Contributor
-- 🏆 Hackathon winner (2023)
+- 🏆 Hackathon winner (2024)
 - 📚 Technical writer & blogger
 - 🎤 Speaker at tech meetups
 
