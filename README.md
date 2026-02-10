@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 <div align="center">
 
 # 👋 Hi, I'm [BluHExH]
@@ -56,6 +59,7 @@ const developer = {
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=BluHExH&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 </div>
 
@@ -71,6 +75,7 @@ const developer = {
 - ⚡ Fun fact: **Coffee+ smoke + Code = Magic ☕💻**
 
 <br clear="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ## 💼 Experience & Open Source Journey
 
@@ -136,14 +141,16 @@ const developer = {
 ---
 
 
----
 
 ## 💻 Stats & Activity
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BluHExH&show_icons=true&theme=radical&count_private=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BluHExH&theme=radical" height="180"/>
 </p>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=BluHExH&theme=react-dark&hide_border=true&bg_color=0D1117&color=A177FF&line=A177FF&point=FF6B6B" alt="Contribution Graph" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ---
 
@@ -168,6 +175,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <div align="center">
